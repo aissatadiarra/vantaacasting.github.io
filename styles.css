@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(224, 212, 191);
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Lucida Sans';
+    font-size: 50px;
+    color: rgb(77, 67, 46);
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 30px;
+    font-style: oblique;
+    color: rgb(78, 44, 24);
+}
+
+p {
+    font-family: Helvetica;
+}
+
+.nav-item .dropdown-menu a:hover {
+    color: rgb(255, 255, 255);
+    background: rgb(78, 44, 24);
+}
+
+.navbar-custom {
+    background-color: rgba(199, 177, 163, 0.9);
+}
+
+.background-image {
+    background-image: url('tausta.webp');
+    background-size: cover;
+    background-position: center;
+}
+
+.nav-link {
+    color: #000000;
+    font-weight: 600;
+}
+
+.nav-link.active {
+    color: #eeeeee !important;
+}
+
+.nav-pills>li>a:hover {
+    color: rgb(21, 91, 112) !important;
+}
+
+a {
+    color: rgb(21, 91, 112);
+    font-weight: 600;
+}
+
+.image-container {
+    display: flex;
+    gap: 50px;
+    background-color: #cebba9;
+}
+
+.image-item {
+    text-align: center;
+    font-size: 25px;
+    color: rgba(82, 57, 3, 0.877);
+}
+
+.header-title {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.carousel-caption {
+    color: #000000;
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(173, 118, 46);
+}
