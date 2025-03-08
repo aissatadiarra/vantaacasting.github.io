@@ -1,9 +1,9 @@
 {
     "otsikko": "Näin aloitat!",
     "ohjeet": {
-        "vaihe_1": "Täytä profiilitietolomake: Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mattis ex id vestibulum dapibus. Donec tempor, dui a aliquet pellentesque, ex turpis vehicula lorem, at gravida est ligula a turpis. Suspendisse consequat euismod metus non pretium. Fusce convallis rhoncus erat.",
-        "vaihe_2": "Tule studiolle ottamaan itsestäsi tuoreet casting-kuvat:Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mattis ex id vestibulum dapibus. Donec tempor, dui a aliquet pellentesque, ex turpis vehicula lorem, at gravida est ligula a turpis. Suspendisse consequat euismod metus non pretium. Fusce convallis rhoncus erat. Suspendisse a urna ultricies, ultricies sem eu, ultricies eros.",
-        "vaihe_3": "Ilmoita profiilisi aktiiviseksi:Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mattis ex id vestibulum dapibus. Donec tempor, dui a aliquet pellentesque, ex turpis vehicula lorem, at gravida est ligula a turpis. Suspendisse consequat euismod metus non pretium. Fusce convallis rhoncus erat. Suspendisse a urna ultricies, ultricies sem eu, ultricies eros.",
+        "vaihe_1": "Täytä profiilitietolomake!",
+        "vaihe_2": "Tule studiolle ottamaan itsestäsi tuoreet casting-kuvat!",
+        "vaihe_3": "Ilmoita profiilisi aktiiviseksi!",
         "kuva":"//aissatadiarra.github.io/vantaacasting.github.io/ilo.jpg" 
     }
 }
