@@ -3,9 +3,8 @@
         "nimi": "VANTAA CASTING",
         "osoite":"Salamatie 2, 00000 Helsinki",
         "puhelinnumero": "+358441231234",
-        "sahkoposti":"vantaacasting@gmail.com"
-        "kuva": "https://aissatadiarra.github.io/vantaacasting.github.io/balleriinat.jpg";
-    }
-        
-   
+        "sahkoposti":"vantaacasting@gmail.com",
+        "kuva":"//aissatadiarra.github.io/vantaacasting.github.io/balleriinat.jpg"  
+    }  
 }
+   
